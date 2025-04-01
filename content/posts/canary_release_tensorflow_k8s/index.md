@@ -673,6 +673,4 @@ All of the responses are now sent by the ResNet101 model.
 
 This deployment configuration can be used for A/B testing as you can easily monitor the performance of the canary model on a specific user group.
 
-### Congratulations
-
-Source code: https://github.com/hoangph3/mlops-labs/tree/main/canary-release-tensorflow-k8s
+You can get full source code [here](https://github.com/hoangph3/mlops-labs/tree/main/canary-release-tensorflow-k8s)!
