@@ -1,8 +1,9 @@
-# baseURL: "https://blog.coopercodes.com/"
-baseURL: "http://localhost:1313/"
-title: Cooper Codes Blog
+baseURL: "https://hoangph3.github.io"
+title: Hoangph3's Blog
 paginate: 5
 theme: PaperMod
+relativeURLs: true
+canonifyURLs: false
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -18,10 +19,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Cooper Codes Blog - Software Engineering Tutorials
-  description: "The Blog for the YouTuber Cooper Codes, "
+  title: Hoangph3's blog - Software Engineering Tutorials
+  description: "The Blog for Software Engineering, "
   keywords: [Blog, Portfolio, PaperMod]
-  author: Cooper Codes
+  author: hoangph3
   # author: ["Me", "You"] # multiple authors
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -51,22 +52,20 @@ params:
     safari_pinned_tab: "/apple-touch-icon.png"
 
   label:
-    text: "Cooper Codes Blog"
-    icon: /favicon-32x32.png
-    iconHeight: 25
+    text: "Hoangph3's blog"
 
   # home-info mode
   homeInfoParams:
-    Title: "What's going on, It's Cooper Codes!\U0001F44B"
-    Content: You probably know me from my YouTube channel Cooper Codes. On this blog I discuss a bunch of things related to technology, feel free to look around!
+    Title: "👋 Welcome to my blog"
+    Content: Hi, I'm Hoang Pham, a machine learning engineer. On this blog I discuss a bunch of things related to technology, feel free to look around!
 
   socialIcons:
-    - name: youtube
-      url: "https://youtube.com/coopercodes"
-    - name: x
-      url: "https://twitter.com/thecoopercodes"
+    - name: linkedin
+      url: "https://linkedin.com/in/hoangph3"
     - name: github
-      url: "https://github.com/coopercodes"
+      url: "https://github.com/hoangph3"
+    - name: gmail
+      url: "mailto:phamhoanghxh1@gmail.com"
 
 menu:
   main:
