@@ -70,7 +70,7 @@ params:
 menu:
   main:
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     
