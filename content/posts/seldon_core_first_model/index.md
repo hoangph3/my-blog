@@ -1,7 +1,7 @@
 ---
 title: "Deploying Your First Model with Seldon Core"
 date: 2022-12-01T21:01:41+07:00
-tags: ["Seldon Core", "Kubernetes", "Model Serving"]
+tags: ["Seldon Core", "Kubernetes", "Model Serving", "MLOps"]
 author: ["hoangph3"]
 showToc: true
 TocOpen: false

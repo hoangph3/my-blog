@@ -1,7 +1,7 @@
 ---
 title: "Integrating Seldon Core with Kafka"
 date: 2022-12-02T01:06:21+07:00
-tags: ["Seldon Core", "Kafka", "Kubernetes", "Model Serving"]
+tags: ["Seldon Core", "Kafka", "Kubernetes", "Model Serving", "MLOps"]
 author: ["hoangph3"]
 showToc: true
 TocOpen: false

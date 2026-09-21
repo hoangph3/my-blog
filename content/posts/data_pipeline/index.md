@@ -1,7 +1,7 @@
 ---
 title: "Data Mining - Deep Dive into Big Data Pipelines"
 date: 2023-07-29T13:32:54+07:00
-tags: ["Kafka", "Docker"]
+tags: ["Kafka", "Docker", "MLOps"]
 author: ["hoangph3"]
 showToc: true
 TocOpen: false

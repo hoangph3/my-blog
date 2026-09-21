@@ -1,7 +1,7 @@
 ---
 title: "Autoscaling TensorFlow Serving on Kubernetes"
 date: 2022-09-30T22:13:01+07:00
-tags: ["Kubernetes", "TensorFlow", "Model Serving"]
+tags: ["Kubernetes", "TensorFlow", "Model Serving", "MLOps"]
 author: ["hoangph3"]
 showToc: true
 TocOpen: false

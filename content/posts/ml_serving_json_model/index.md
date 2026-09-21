@@ -1,7 +1,7 @@
 ---
 title: "Serving TensorFlow Models with JSON Requests"
 date: 2023-07-27T22:18:49+07:00
-tags: ["TensorFlow", "Model Serving"]
+tags: ["TensorFlow", "Model Serving", "MLOps"]
 author: ["hoangph3"]
 showToc: true
 TocOpen: false

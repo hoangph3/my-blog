@@ -1,7 +1,7 @@
 ---
 title: "Serving TensorFlow Models with a Custom Environment"
 date: 2023-08-13T22:17:28+07:00
-tags: ["TensorFlow", "Model Serving", "Docker"]
+tags: ["TensorFlow", "Model Serving", "Docker", "MLOps"]
 author: ["hoangph3"]
 showToc: true
 TocOpen: false

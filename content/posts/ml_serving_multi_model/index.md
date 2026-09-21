@@ -1,7 +1,7 @@
 ---
 title: "Serving Multiple TensorFlow Models with Monitoring"
 date: 2023-07-26T00:02:51+07:00
-tags: ["TensorFlow", "Model Serving"]
+tags: ["TensorFlow", "Model Serving", "MLOps"]
 author: ["hoangph3"]
 showToc: true
 TocOpen: false

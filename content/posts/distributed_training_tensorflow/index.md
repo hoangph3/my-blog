@@ -1,7 +1,7 @@
 ---
 title: "Distributed Training with TensorFlow"
 date: 2022-11-01T23:03:34+07:00
-tags: ["TensorFlow", "Machine Learning"]
+tags: ["TensorFlow", "Machine Learning", "MLOps"]
 author: ["hoangph3"]
 showToc: true
 TocOpen: false

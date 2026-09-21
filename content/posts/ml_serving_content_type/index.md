@@ -1,7 +1,7 @@
 ---
 title: "TensorFlow Serving: Handling Content Types"
 date: 2023-07-29T13:33:38+07:00
-tags: ["TensorFlow", "Model Serving"]
+tags: ["TensorFlow", "Model Serving", "MLOps"]
 author: ["hoangph3"]
 showToc: true
 TocOpen: false
