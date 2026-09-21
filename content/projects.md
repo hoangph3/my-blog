@@ -46,6 +46,25 @@ A mix of production ML engineering, DevOps tutorials, and side projects in compu
 </div>
 
 <div class="project-card">
+<h3>Picking Robot</h3>
+<p>A YOLO-based computer vision pipeline for a warehouse picking robot: object detection and grasp-point estimation feeding a robotic arm's pick logic.</p>
+<div class="project-tags"><span>Computer Vision</span><span>Robotics</span><span>YOLO</span></div>
+<div class="project-links">
+<a href="https://github.com/hoangph3/Picking-Robot" target="_blank" rel="noopener">GitHub</a>
+</div>
+</div>
+
+<div class="project-card">
+<h3>Behavioral Biometrics</h3>
+<p>Authenticating users from how they type and move the mouse, not what they know: siamese/contrastive networks trained on keystroke and mouse-dynamics datasets.</p>
+<div class="project-tags"><span>Biometrics</span><span>Security</span><span>Deep Learning</span></div>
+<div class="project-links">
+<a href="https://github.com/hoangph3/keystroke-dna" target="_blank" rel="noopener">Keystroke</a>
+<a href="https://github.com/hoangph3/mouse-dna" target="_blank" rel="noopener">Mouse</a>
+</div>
+</div>
+
+<div class="project-card">
 <h3>Dicom 3D Generation</h3>
 <p>A web tool that reconstructs and segments 3D bone models from DICOM CT scans, with adjustable smoothing per axis and a browser-based upload UI.</p>
 <div class="project-tags"><span>Computer Vision</span><span>3D Reconstruction</span><span>Python</span></div>
@@ -74,7 +93,7 @@ A mix of production ML engineering, DevOps tutorials, and side projects in compu
 
 <div class="project-card">
 <h3>LLM Applications</h3>
-<p>Notebooks exploring practical patterns for building applications on top of large language models.</p>
+<p>A working reference for the practical side of LLM engineering: fine-tuning, retrieval-augmented generation, model serving, and worked tutorials.</p>
 <div class="project-tags"><span>LLM</span><span>Python</span></div>
 <div class="project-links">
 <a href="https://github.com/hoangph3/llm-applications" target="_blank" rel="noopener">GitHub</a>
