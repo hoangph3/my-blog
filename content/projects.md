@@ -6,6 +6,8 @@ ShowBreadCrumbs: false
 ShowReadingTime: false
 ShowWordCount: false
 ShowPostNavLinks: false
+disableShare: true
+hidemeta: true
 searchHidden: false
 ---
 
