@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "👋 Welcome to my blog"
-    Content: <img src="/android-chrome-512x512.png" class="home-avatar" alt="hoangph3" /> Hi, I'm Hoang Pham, a machine learning engineer. On this blog I discuss a bunch of things related to technology, feel free to look around!
+    Content: <img src="/android-chrome-512x512.png" class="home-avatar" alt="hoangph3" /><span>Hi, I'm Hoang Pham, a machine learning engineer. On this blog I discuss a bunch of things related to technology, feel free to look around!</span>
 
   socialIcons:
     - name: linkedin
