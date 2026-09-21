@@ -13,7 +13,6 @@ summary: "Serve tensorflow model efficiently with customized model signatures" #
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
