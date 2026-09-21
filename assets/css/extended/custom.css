@@ -17,10 +17,6 @@ article.post-entry:hover {
     border-color: var(--accent);
 }
 
-.top-link {
-    background: var(--accent) !important;
-}
-
 .social-icons a:hover {
     color: var(--accent);
 }
