@@ -68,6 +68,8 @@ params:
 
   label:
     text: "Hoangph3's blog"
+    icon: "android-chrome-192x192.png"
+    iconHeight: 28
 
   # home-info mode
   homeInfoParams:
