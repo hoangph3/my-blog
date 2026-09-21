@@ -17,7 +17,22 @@ minify:
   disableXML: true
   minifyOutput: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
+  mainSections: ["posts"]
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Hoangph3's blog - Software Engineering Tutorials
   description: "The Blog for Software Engineering, "
@@ -57,7 +72,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "👋 Welcome to my blog"
-    Content: Hi, I'm Hoang Pham, a machine learning engineer. On this blog I discuss a bunch of things related to technology, feel free to look around!
+    Content: <img src="/android-chrome-512x512.png" class="home-avatar" alt="hoangph3" /> Hi, I'm Hoang Pham, a machine learning engineer. On this blog I discuss a bunch of things related to technology, feel free to look around!
 
   socialIcons:
     - name: linkedin
@@ -69,11 +84,23 @@ params:
 
 menu:
   main:
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 10
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 20
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
-    
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
 pygmentsCodeFences: true   
 pygmentsUseClasses: false
 
