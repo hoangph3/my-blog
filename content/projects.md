@@ -16,6 +16,24 @@ A mix of production ML engineering, DevOps tutorials, and side projects in compu
 <div class="project-grid">
 
 <div class="project-card">
+<h3>LLM Applications</h3>
+<p>A working reference for the practical side of LLM engineering: fine-tuning, retrieval-augmented generation, model serving, and worked tutorials.</p>
+<div class="project-tags"><span>LLM</span><span>Python</span></div>
+<div class="project-links">
+<a href="https://github.com/hoangph3/llm-applications" target="_blank" rel="noopener">GitHub</a>
+</div>
+</div>
+
+<div class="project-card">
+<h3>Claude Skills</h3>
+<p>A personal library of Claude Code skills — reusable slash-command workflows any project can install, starting with a skill that drafts formatted .docx documents from a template.</p>
+<div class="project-tags"><span>AI Agent</span><span>Claude Code</span><span>Automation</span></div>
+<div class="project-links">
+<a href="https://github.com/hoangph3/claude-skills" target="_blank" rel="noopener">GitHub</a>
+</div>
+</div>
+
+<div class="project-card">
 <h3>MLOps Labs</h3>
 <p>Hands-on labs for production machine learning: model serving with TensorFlow Serving and Seldon Core, feature stores, Kubeflow pipeline components, canary releases, and autoscaling.</p>
 <div class="project-tags"><span>Kubernetes</span><span>TensorFlow</span><span>MLOps</span></div>
@@ -55,15 +73,6 @@ A mix of production ML engineering, DevOps tutorials, and side projects in compu
 </div>
 
 <div class="project-card">
-<h3>Claude Skills</h3>
-<p>A personal library of Claude Code skills — reusable slash-command workflows any project can install, starting with a skill that drafts formatted .docx documents from a template.</p>
-<div class="project-tags"><span>AI Agent</span><span>Claude Code</span><span>Automation</span></div>
-<div class="project-links">
-<a href="https://github.com/hoangph3/claude-skills" target="_blank" rel="noopener">GitHub</a>
-</div>
-</div>
-
-<div class="project-card">
 <h3>Behavioral Biometrics</h3>
 <p>Authenticating users from how they type and move the mouse, not what they know: siamese/contrastive networks trained on keystroke and mouse-dynamics datasets.</p>
 <div class="project-tags"><span>Biometrics</span><span>Security</span><span>Deep Learning</span></div>
@@ -88,24 +97,6 @@ A mix of production ML engineering, DevOps tutorials, and side projects in compu
 <div class="project-tags"><span>IoT</span><span>Streaming</span><span>Python</span></div>
 <div class="project-links">
 <a href="https://github.com/hoangph3/parking-slot-iot" target="_blank" rel="noopener">GitHub</a>
-</div>
-</div>
-
-<div class="project-card">
-<h3>License Plate Recognition</h3>
-<p>Vehicle detection and automatic license plate recognition pipeline combining object detection with OCR for real-world traffic footage.</p>
-<div class="project-tags"><span>Computer Vision</span><span>OCR</span></div>
-<div class="project-links">
-<a href="https://github.com/hoangph3/alpr" target="_blank" rel="noopener">GitHub</a>
-</div>
-</div>
-
-<div class="project-card">
-<h3>LLM Applications</h3>
-<p>A working reference for the practical side of LLM engineering: fine-tuning, retrieval-augmented generation, model serving, and worked tutorials.</p>
-<div class="project-tags"><span>LLM</span><span>Python</span></div>
-<div class="project-links">
-<a href="https://github.com/hoangph3/llm-applications" target="_blank" rel="noopener">GitHub</a>
 </div>
 </div>
 
