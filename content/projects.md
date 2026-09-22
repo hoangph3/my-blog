@@ -55,6 +55,15 @@ A mix of production ML engineering, DevOps tutorials, and side projects in compu
 </div>
 
 <div class="project-card">
+<h3>Claude Skills</h3>
+<p>A personal library of Claude Code skills — reusable slash-command workflows any project can install, starting with a skill that drafts formatted .docx documents from a template.</p>
+<div class="project-tags"><span>AI Agent</span><span>Claude Code</span><span>Automation</span></div>
+<div class="project-links">
+<a href="https://github.com/hoangph3/claude-skills" target="_blank" rel="noopener">GitHub</a>
+</div>
+</div>
+
+<div class="project-card">
 <h3>Behavioral Biometrics</h3>
 <p>Authenticating users from how they type and move the mouse, not what they know: siamese/contrastive networks trained on keystroke and mouse-dynamics datasets.</p>
 <div class="project-tags"><span>Biometrics</span><span>Security</span><span>Deep Learning</span></div>

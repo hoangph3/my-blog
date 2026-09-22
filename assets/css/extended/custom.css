@@ -21,33 +21,6 @@ article.post-entry:hover {
     color: var(--accent);
 }
 
-.home-info .entry-content p {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 16px;
-}
-
-.home-avatar {
-    width: 72px;
-    height: 72px;
-    flex: none;
-    border-radius: 50%;
-    border: 2px solid var(--accent);
-}
-
-.home-info .entry-content p span {
-    flex: 1 1 220px;
-    min-width: 0;
-}
-
-@media (max-width: 480px) {
-    .home-avatar {
-        width: 56px;
-        height: 56px;
-    }
-}
-
 /* Projects page */
 .project-grid {
     display: grid;
